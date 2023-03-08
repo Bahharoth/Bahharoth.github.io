@@ -1,6 +1,13 @@
 body {
     background-color: lightblue;
-    font-family: 'Bradley Hand ITC', cursive ;
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
 
 h1 {
